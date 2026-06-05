@@ -1,0 +1,14 @@
+D:\VS code\GitHub-Demo\bin\Debug\net10.0\GitHub-Demo.exe
+D:\VS code\GitHub-Demo\bin\Debug\net10.0\GitHub-Demo.deps.json
+D:\VS code\GitHub-Demo\bin\Debug\net10.0\GitHub-Demo.runtimeconfig.json
+D:\VS code\GitHub-Demo\bin\Debug\net10.0\GitHub-Demo.dll
+D:\VS code\GitHub-Demo\bin\Debug\net10.0\GitHub-Demo.pdb
+D:\VS code\GitHub-Demo\obj\Debug\net10.0\GitHub-Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS code\GitHub-Demo\obj\Debug\net10.0\GitHub-Demo.AssemblyInfoInputs.cache
+D:\VS code\GitHub-Demo\obj\Debug\net10.0\GitHub-Demo.AssemblyInfo.cs
+D:\VS code\GitHub-Demo\obj\Debug\net10.0\GitHub-Demo.csproj.CoreCompileInputs.cache
+D:\VS code\GitHub-Demo\obj\Debug\net10.0\GitHub-Demo.dll
+D:\VS code\GitHub-Demo\obj\Debug\net10.0\refint\GitHub-Demo.dll
+D:\VS code\GitHub-Demo\obj\Debug\net10.0\GitHub-Demo.pdb
+D:\VS code\GitHub-Demo\obj\Debug\net10.0\GitHub-Demo.genruntimeconfig.cache
+D:\VS code\GitHub-Demo\obj\Debug\net10.0\ref\GitHub-Demo.dll
