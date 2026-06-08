@@ -1,0 +1,21 @@
+name: First Pipeline
+
+on:
+  push:
+
+jobs:
+  hello:
+    runs-on: self-hosted
+
+    steps:
+      - name: Print Message
+        run: echo "Hello from Ubuntu Runner"
+
+      - name: Show Host
+        run: hostname
+
+      - name: Show Current User
+        run: whoami
+
+      - name: Show Current Directory
+        run: pwd
